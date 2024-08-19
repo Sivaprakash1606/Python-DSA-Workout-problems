@@ -1,4 +1,4 @@
-x="program"
+x="prakash"
 
 for i in range(len(x)):
     j=len(x)-1-i
